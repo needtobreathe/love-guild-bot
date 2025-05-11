@@ -1,0 +1,19 @@
+{
+  "name": "lovebot",
+  "version": "1.0.0",
+  "description": "Discord bot for managing roles",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chalk": "^5.4.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "node-fetch": "^2.6.7",
+    "ws": "^8.18.2"
+  },
+  "author": "blxze"
+}
